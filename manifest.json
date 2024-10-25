@@ -1,0 +1,21 @@
+{
+  "name" : "Coffee shop",
+  "short_name" : "Coffee shop",
+  "start_url" : ".",
+  "background_color" : "#6dcbd1",
+  "theme_color" : "#009678",
+  "display" : "standalone",
+  "icons" : [
+    {
+      "src" : "images/coffee192.png",
+      "size" : "192x192",
+      "type" : "images/png"
+    },
+
+    {
+      "src" : "images/coffee512.png",
+      "size" : "512x512",
+      "type" : "images/png"
+    }
+  ]
+}
