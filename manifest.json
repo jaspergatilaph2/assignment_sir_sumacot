@@ -1,7 +1,7 @@
 {
   "name" : "Coffee shop",
   "short_name" : "Coffee shop",
-  "start_url" : ".",
+  "start_url" : "./index.html",
   "background_color" : "#6dcbd1",
   "theme_color" : "#009678",
   "display" : "standalone",
